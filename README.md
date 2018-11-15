@@ -1,4 +1,7 @@
 # learning_ros
+
+For ROS Kinetic please see this repository: https://github.com/wsnewman/learning_ros_kinetic.
+
 This repository accompanies the text "A Systematic Approach to Learning Robot Programming with ROS".
 Code examples reside in folders corresponding to chapters.
 
